@@ -13,6 +13,7 @@ gem 'sass-rails', '~> 5.0'
 gem 'twitter-bootstrap-rails', '~> 4.0'
 gem 'devise-bootstrap-views', '~> 1.1'
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.5'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
 # Use Devise for security
 gem 'devise', '~> 4.6', '>= 4.6.2'
 # Use Uglifier as compressor for JavaScript assets
