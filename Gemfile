@@ -20,6 +20,11 @@ gem "devise", "~> 4.6", ">= 4.6.2"
 gem "stripe", "~> 4.21", ">= 4.21.2"
 # Use Figaro for ENV variables
 gem "figaro"
+# Use for wor with images
+gem "carrierwave", "~> 1.3", ">= 1.3.1"
+gem "mini_magick", "~> 4.9", ">= 4.9.4"
+gem "fog", "~> 2.2"
+
 # Use Uglifier as compressor for JavaScript assets
 gem "uglifier", ">= 1.3.0"
 # See https://github.com/rails/execjs#readme for more supported runtimes
