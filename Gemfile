@@ -23,6 +23,7 @@ gem "figaro"
 # Use for wor with images
 gem "carrierwave"
 gem "mini_magick"
+gem "fog"
 gem "fog-aws", group: :production
 gem "aws-sdk-s3", group: :production
 
