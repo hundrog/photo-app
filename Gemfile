@@ -21,9 +21,9 @@ gem "stripe", "~> 4.21", ">= 4.21.2"
 # Use Figaro for ENV variables
 gem "figaro"
 # Use for wor with images
-gem "carrierwave", "~> 1.3", ">= 1.3.1"
-gem "mini_magick", "~> 4.9", ">= 4.9.4"
-gem "fog-aws", "~> 3.5", ">= 3.5.1"
+gem "carrierwave"
+gem "mini_magick"
+gem "fog-aws"
 
 # Use Uglifier as compressor for JavaScript assets
 gem "uglifier", ">= 1.3.0"
