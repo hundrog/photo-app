@@ -23,7 +23,7 @@ gem "figaro"
 # Use for wor with images
 gem "carrierwave", "~> 1.3", ">= 1.3.1"
 gem "mini_magick", "~> 4.9", ">= 4.9.4"
-gem "fog", "~> 2.2"
+gem "fog-aws", "~> 3.5", ">= 3.5.1"
 
 # Use Uglifier as compressor for JavaScript assets
 gem "uglifier", ">= 1.3.0"
