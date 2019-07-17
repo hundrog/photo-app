@@ -23,8 +23,8 @@ gem "figaro"
 # Use for wor with images
 gem "carrierwave"
 gem "mini_magick"
-gem "fog-aws"
-gem "aws-sdk-s3"
+gem "fog-aws", group: :production
+gem "aws-sdk-s3", group: :production
 
 # Use Uglifier as compressor for JavaScript assets
 gem "uglifier", ">= 1.3.0"
