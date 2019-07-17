@@ -21,7 +21,7 @@ gem "stripe", "~> 4.21", ">= 4.21.2"
 # Use Figaro for ENV variables
 gem "figaro"
 # Use for wor with images
-gem "carrierwave", group: :development
+gem "carrierwave"
 gem "mini_magick"
 gem "fog-aws"
 gem "aws-sdk-s3"
