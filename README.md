@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an application to show 3 fundamental aspects for a web application
+* Users Registration with email confirmation
+* Pay for a service/product (single time)
+* Upload files to an AWS E3 bucket
 
-Things you may want to cover:
+Build with
 
-* Ruby version
+* Ruby 2.6.3 | Rails 5.2.1
 
-* System dependencies
+* Uses Devise, Sendgrid, Stripe and AWS E3 bucket
 
-* Configuration
+* You can chek it in action in : https://hundrog-photo-app.herokuapp.com
 
-* Database creation
+* You can Use stripe cards to test: https://stripe.com/docs/testing
 
-* Database initialization
+  * 4242424242424242	Visa
 
-* How to run the test suite
+  * 5555555555554444	Mastercard
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Use a yopmail email: http://www.yopmail.com/
