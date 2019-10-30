@@ -15,7 +15,7 @@ gem "devise-bootstrap-views", "~> 1.1"
 gem "font-awesome-rails", "~> 4.7", ">= 4.7.0.5"
 gem "jquery-rails", "~> 4.3", ">= 4.3.5"
 # Use Devise for security
-gem "devise", "~> 4.6", ">= 4.6.2"
+gem "devise", "~> 4.7"
 # Use stripe for online payments
 gem "stripe", "~> 4.21", ">= 4.21.2"
 # Use Figaro for ENV variables
